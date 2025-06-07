@@ -1,0 +1,5 @@
+""""strings = ['Pao Batata', 'Faculdade Escola', 'Ayrton Senna', 'Pele Maradona']\n"
+      "for i in range(len(strings)):\n"
+      "    stringa, stringb = strings[i].split(' ')\n"
+      "    distancia = levenshtein_em_python(stringa, stringb)\n"
+      "    print('A distancia entre ' + stringa + ' e ' + stringb + ' é: ' + str(distancia))\n";"""
